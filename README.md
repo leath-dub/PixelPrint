@@ -8,4 +8,4 @@ A simple pixel font
 + Support for basic ascii box art
 
 # License
-[!Bintray](https://img.shields.io/badge/GPL-v3.0-success)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
