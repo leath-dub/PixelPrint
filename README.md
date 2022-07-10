@@ -1,11 +1,13 @@
 # PixelPrint
----
-A simple pixel font
+Simple font and cursor library
 
-## Features
+# Members
 
-+ Basic keyboard character support
-+ Support for basic ascii box art
+**PixelPrint** :: A simple (unextensive) pixel font 
+
+## TODO
+
++ Cursor pack(s)
 
 ### License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
